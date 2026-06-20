@@ -1,0 +1,20 @@
+{
+  "name": "NZ Self-Thinking English Trainer",
+  "short_name": "NZ English",
+  "description": "Korean-to-English recall practice for real New Zealand life and work",
+  "lang": "ko",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#f0f5ef",
+  "theme_color": "#173f38",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
